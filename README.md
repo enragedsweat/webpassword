@@ -1,3 +1,3 @@
 # webpassword
 
-currently under development and not working completely
+currently under development and not fully working.
